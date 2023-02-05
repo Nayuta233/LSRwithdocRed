@@ -1,0 +1,9 @@
+torch==1.7.1
+allennlp==2.1.0
+allennlp-models==2.1.0
+numpy==1.19.4
+networkx==2.4
+textdistance==4.2.1
+flask
+gunicorn
+sgnlp
